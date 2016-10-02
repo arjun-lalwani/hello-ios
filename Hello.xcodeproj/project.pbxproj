@@ -34,7 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B40AAA351D9E25C50063C72B /* Hello.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hello.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B40AAA351D9E25C50063C72B /* Hello-iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hello-iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B40AAA381D9E25C50063C72B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B40AAA3A1D9E25C50063C72B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		B40AAA3D1D9E25C50063C72B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -87,7 +87,7 @@
 		B40AAA361D9E25C50063C72B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B40AAA351D9E25C50063C72B /* Hello.app */,
+				B40AAA351D9E25C50063C72B /* Hello-iOS.app */,
 				B40AAA491D9E25C60063C72B /* HelloTests.xctest */,
 				B40AAA541D9E25C60063C72B /* HelloUITests.xctest */,
 			);
@@ -142,7 +142,7 @@
 			);
 			name = Hello;
 			productName = Hello;
-			productReference = B40AAA351D9E25C50063C72B /* Hello.app */;
+			productReference = B40AAA351D9E25C50063C72B /* Hello-iOS.app */;
 			productType = "com.apple.product-type.application";
 		};
 		B40AAA481D9E25C60063C72B /* HelloTests */ = {
@@ -418,8 +418,8 @@
 				INFOPLIST_FILE = Hello/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ischool.uw.edu.Hello;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "ischool.uw.edu.Hello-iOS";
+				PRODUCT_NAME = "Hello-iOS";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -433,8 +433,8 @@
 				INFOPLIST_FILE = Hello/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ischool.uw.edu.Hello;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "ischool.uw.edu.Hello-iOS";
+				PRODUCT_NAME = "Hello-iOS";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
