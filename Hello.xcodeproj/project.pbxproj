@@ -418,7 +418,7 @@
 				INFOPLIST_FILE = Hello/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "ischool.uw.edu.Hello-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.arjun.hello-ios";
 				PRODUCT_NAME = "Hello-iOS";
 				SWIFT_VERSION = 3.0;
 			};
@@ -433,7 +433,7 @@
 				INFOPLIST_FILE = Hello/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "ischool.uw.edu.Hello-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.arjun.hello-ios";
 				PRODUCT_NAME = "Hello-iOS";
 				SWIFT_VERSION = 3.0;
 			};
